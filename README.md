@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a developer. It's designed to provide visitors with an overview of my work and to facilitate easy contact.
 
-<img src="assets/images/portfolio-preview.png" alt="Portfolio Preview" width="500"/>
+<img src="assets/images/portfolio-preview.png" alt="Portfolio Preview"/>
 ## 🚀 Live Demo
 
 Check out the live version of the portfolio: [https://thopateeesha.github.io/portfolio/)
