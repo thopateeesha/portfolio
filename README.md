@@ -17,7 +17,6 @@ Check out the live version of the portfolio: [https://thopateeesha.github.io/por
 - **Responsive Design**: Optimized for various screen sizes.
 - **Project Showcase**: Highlights key projects with descriptions and links.
 - **Contact Form**: Allows visitors to get in touch directly.
-- **Dark Mode**: Toggle between light and dark themes.
 - **Interactive UI**: Smooth animations and transitions for better UX.
 
 ## 📦 Installation
