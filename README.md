@@ -8,10 +8,8 @@ Check out the live version of the portfolio: [https://thopateeesha.github.io/por
 
 ## 🛠️ Built With
 
-- **Frontend**: React.js, Tailwind CSS
-- **Icons**: Heroicons
-- **Routing**: React Router
-- **State Management**: React Hooks
+- **Frontend**: HTML5,CSS3,JavaSript
+- **Icons**: custom
 - **Deployment**: GitHub Pages
 
 ## 📁 Features
